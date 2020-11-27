@@ -1,0 +1,3 @@
+#Dubbo Registry Cache
+#Wed Oct 09 11:07:26 CST 2019
+analysis_group/casia.ibasic.dubbo.service.SpamService\:1.0=empty\://10.16.100.36\:9339/casia.ibasic.dubbo.service.SpamService?accepts\=128&anyhost\=true&application\=provider_spam&category\=configurators&check\=false&dubbo\=2.8.4&generic\=false&group\=analysis_group&interface\=casia.ibasic.dubbo.service.SpamService&methods\=spam&owner\=Overlord.Y&pid\=2556&revision\=1.0&server\=netty&side\=provider&timeout\=180000&timestamp\=1570590444504&version\=1.0
